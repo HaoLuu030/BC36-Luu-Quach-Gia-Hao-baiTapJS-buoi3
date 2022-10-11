@@ -125,7 +125,7 @@ function ex4() {
 function ex5() {
   var number = document.getElementById("number").value;
 
-  if (number <= 99) {
+  if (number >=10 && number <= 99) {
     var ones = parseInt(number) % 10;
     var tens = Math.floor(number / 10);
     var total = ones + tens;
