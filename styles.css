@@ -12,16 +12,16 @@
     padding: 50px 0;
 }
 
-.container .nav-tabs {
+/* .container .nav-tabs {
     margin-bottom: 20px;
     border: none;
-}
+} */
 
 
-.container .nav-tabs .nav-link.active {
+/* .container .nav-tabs .nav-link.active {
     border: none;
     background-color: beige;
-}
+} */
 
 .excercise form {
     margin: 30px 0;
